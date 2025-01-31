@@ -1,3 +1,3 @@
 # Recursos
 
-Augustinus - Gerador de partituras .gabc: augustinus.liturgiacantada.com.br
+Augustinus - Gerador de partituras .gabc: https://augustinus.liturgiacantada.com.br
